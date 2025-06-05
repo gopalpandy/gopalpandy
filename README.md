@@ -2,12 +2,12 @@
 <h1 align="center">Hi 👋, I'm Gopal Pandey</h1>
 <h3 align="center">Aspiring Data Scientist | AI/ML Enthusiast | Game Developer in Progress</h3>
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, Math for AI, and Game Development**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, AI, and Game Development**
 
 - 🧠 Focus Areas:
   - AI/ML with Python (Numpy, Pandas, Scikit-learn, TensorFlow, PyTorch)
   - Statistics, Linear Algebra, and Calculus for ML
-  - Game Development using Unity & C#
+  - Game Development using C#,C++
 
 - 💼 Currently working on:
   - **Mini ML projects** (classification, regression, vision)
@@ -39,9 +39,9 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gopal-pandey&show_icons=true&theme=tokyonight" alt="gopal-pandey" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gopalpandy&show_icons=true&theme=tokyonight" alt="gopal-pandey" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gopal-pandey&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gopal-pandy&theme=tokyonight" />
 </p>
 
 ---
