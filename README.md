@@ -1,5 +1,5 @@
 
-<h1 align="center">🕹️ Gopal Pandey — Game Dev | Designer | AI Learner</h1>
+<h1 align="center">🕹️ Gopal Pandey — Game Dev | Designer | 3d learner</h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
